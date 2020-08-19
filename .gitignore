@@ -130,5 +130,4 @@ dmypy.json
 
 #Excel and data
 *.xlsx
-*.csv
 *.pdf
